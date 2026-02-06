@@ -1,0 +1,8 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Build Started",
+    "test": "echo Test Passed"
+  }
+}
